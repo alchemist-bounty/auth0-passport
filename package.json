@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/alchemist-bounty/auth0-passport#readme",
   "devDependencies": {
+    "browser-sync": "^2.27.7",
     "nodemon": "^2.0.15"
   },
   "dependencies": {
